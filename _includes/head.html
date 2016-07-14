@@ -6,7 +6,19 @@
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
+  <meta property="og:url" content="{{ site.og.url }}">
+  <meta property="og:title" content="{{ site.title }}">
+  <meta property="og:description" content="{{ site.description | strip_newlines }}">
+  <meta property="og:type" content="{{ site.og.type }}">
+  <meta property="og:image" content="{{ site.url }}{{ site.baseurl }}{{ site.og.image.url }}">
+  <meta property="og:image:type" content="{{ site.og.image.type }}">
+
+  <!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/js/ie/html5shiv.js"></script><![endif]-->
+	<!-- <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" /> -->
+	<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie8.css" /><![endif]-->
+
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 </head>
