@@ -14,8 +14,10 @@
   <meta property="og:image:type" content="{{ site.og.image.type }}">
 
   <!--[if lte IE 8]><script src="{{ site.baseurl }}/assets/js/ie/html5shiv.js"></script><![endif]-->
-	<link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" />
+	<!-- <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css" /> -->
 	<!--[if lte IE 8]><link rel="stylesheet" href="{{ site.baseurl }}/assets/css/ie8.css" /><![endif]-->
+
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
