@@ -4,10 +4,10 @@ title: Sermons
 permalink: /sermons/
 ---
 
-# Sermons
+## Begin with God
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jw-Y_ceGpKU" frameborder="0" allowfullscreen></iframe>
 
-Content here
+<br><br><br>
 
-- Thing 1
-- Thing 2
-- Thing 3
+## The Truth About Grace
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=DeQCVMJYDpQ&t=21m0s" frameborder="0" allowfullscreen></iframe>

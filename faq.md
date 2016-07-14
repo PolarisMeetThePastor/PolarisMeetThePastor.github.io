@@ -4,7 +4,6 @@ title: FAQ
 permalink: /faq/
 ---
 
-# FAQ
 
 Q: What was the process the Pastoral Selection Committee used to review candidates?<br>
 A: PSC used a national search firm specializing in finding the perfect fit for our culture, our desire to grow, and to lead the several other ministries we have like the school and daycare. 
@@ -29,3 +28,7 @@ A:
 Q: What's next?<br>
 A: We have a whole page dedicated to the next steps. Please click here to read more. 
 <br><br>
+
+Q: Who can I talk to if I want to know more?
+A: The Board of Directors or the Pastoral staff would love to hear from you. Please see us or feel free to email us at 
+#INSERT EMAIL ADDRESS
