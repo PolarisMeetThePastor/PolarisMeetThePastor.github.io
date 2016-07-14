@@ -6,3 +6,12 @@ if ($(this).scrollTop() > 1){
     $('nav').removeClass("sticky");
   }
 });
+
+$(window).scroll(function() {
+if ($(this).scrollTop() > 1){
+    $('#header').addClass("fade");
+  }
+  else{
+    $('#header').removeClass("fade");
+  }
+});
