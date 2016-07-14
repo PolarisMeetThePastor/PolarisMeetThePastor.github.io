@@ -1,12 +1,13 @@
 ---
 layout: page
-title: About
-permalink: about.html
+title: Sermons
+permalink: /sermons/
 ---
 
-# About
+# Sermons
 
 Content here
+
 - Thing 1
 - Thing 2
 - Thing 3
