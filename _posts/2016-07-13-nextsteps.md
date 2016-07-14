@@ -1,8 +1,9 @@
 ---
-layout: page
-title: Next Steps
-permalink: /next-steps/
+layout: post
+title:  "Next Steps"
+date:   2016-07-13 22:37:26 -0400
 ---
+
 
 ### SPEAK IN FRONT OF CONGREGATION
 Saturday, August 7, 2016 | 10:30 AM 
