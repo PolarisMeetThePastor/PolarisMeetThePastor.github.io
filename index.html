@@ -3,18 +3,14 @@ layout: default
 ---
 
 <div class="home">
-
-    {% for post in site.posts %}
+    {% assign my_posts = site.posts | sort:"ordinal" %}
+    {% for post in my_posts %}
       <div>
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <a name="{{ post.link }}"></a>
         <div class="content">
           {{ post.content }}
         </div>
       </div>
     {% endfor %}
-
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
