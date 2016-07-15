@@ -50,3 +50,52 @@
         -1px 1px 0 #000,
         1px 1px 0 #000;
 }
+
+.letter {
+    font-style: italic;
+}
+
+.even {
+    background-color: #eee;
+    margin-bottom: 20px;
+}
+
+.odd {
+    background-color: #eee;
+    margin-bottom: 20px;
+}
+
+
+div.content p {
+    margin-bottom: .5em;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+div.faq h3 {
+    font-size: 12pt;
+    margin-left: .5em;
+    margin-right: .5em;
+}
+
+div.content h3 {
+    margin-top: 1.5em;
+    margin-bottom: .5em;
+}
+
+div.content h2 {
+    text-align: center;
+    width: 100%;
+    background-color: #ddd;
+}
+
+div.sermons  {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+div.outer {
+    background-color: red;
+    width: 100%;
+}

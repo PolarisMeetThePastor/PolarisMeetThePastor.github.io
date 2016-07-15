@@ -5,10 +5,18 @@ layout: default
 <div class="home">
     {% assign my_posts = site.posts | sort:"ordinal" %}
     {% for post in my_posts %}
-      <div>
+      {% assign counter = forloop.index | modulo: 2 %}
+      {% if counter == 1 %}
+        {% assign cssclass = "odd" %}
+      {% else %}
+        {% assign cssclass = "even" %}
+      {% endif %}
+      <div class="{{ cssclass }}">
         <a id="{{ post.link }}"></a>
-        <div class="content">
-          {{ post.content }}
+        <div class="outer">
+          <div class="content {{ post.link }}">
+            {{ post.content }}
+          </div>
         </div>
       </div>
     {% endfor %}
