@@ -6,7 +6,7 @@ layout: default
     {% assign my_posts = site.posts | sort:"ordinal" %}
     {% for post in my_posts %}
       <div>
-        <a name="{{ post.link }}"></a>
+        <a id="{{ post.link }}"></a>
         <div class="content">
           {{ post.content }}
         </div>

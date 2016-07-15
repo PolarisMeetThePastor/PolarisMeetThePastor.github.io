@@ -15,3 +15,11 @@ if ($(this).scrollTop() > 1){
     $('#header').removeClass("fade");
   }
 });
+
+$(document).ready(function() {
+  $(".post-link").click(function(e) {
+    //e.preventDefault();
+    var dest = $(this).attr('href');
+    $('html,body').animate({ scrollTop: $(dest).offset().top - 80 }, 'slow');
+  });
+});
