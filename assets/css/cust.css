@@ -53,16 +53,18 @@
 
 .letter {
     font-style: italic;
+    width: 75%;
+    margin-left: 5em;
 }
+
 
 .even {
     background-color: #eee;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 .odd {
-    background-color: #eee;
-    margin-bottom: 20px;
+    margin-bottom: 30px;
 }
 
 div.content p {
