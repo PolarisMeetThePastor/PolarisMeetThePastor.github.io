@@ -4,6 +4,12 @@ layout: default
 
 {% assign my_posts = site.posts | sort:"ordinal" %}
 {% for post in my_posts %}
+  {% assign counter = forloop.index | modulo: 2 %}
+  {% if counter == 1 %}
+    {% assign cssclass = "odd" %}
+  {% else %}
+    {% assign cssclass = "even" %}
+  {% endif %}
   <div class="wrapper style2 {{ cssclass }}">
 		<article class="container special">
       <a id="{{ post.link }}"></a>
