@@ -14,11 +14,4 @@ Pete will be speaking at the main service. We'd love to you to stay after servic
 
 
 ### PASTORAL STAFF & BOARD VOTE
-Monday, August 15th , 2016  
 After collecting feedback from the congregation as well as a lot of prayer, the team will vote. A two-thirds vote is required by all in attendance to bring Pete on board as the senior pastor.
-
-
-### PROJECTED INSTALLATION WEEKEND
-Sunday, September 11, 2016 | 10:30 AM  
-
-If Pastor Pete is confirmed by the Pastoral Staff and the Board, we anticipate welcoming him during a celebratory installation weekend.
