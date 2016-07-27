@@ -9,7 +9,7 @@
 title: Polaris Pastor Search
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
-  Polaris Pastor Search.
+  Polaris Pastor Search
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://polarispastorsearch.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
@@ -22,7 +22,7 @@ markdown: kramdown
 og:
   url: "http://polarispastorsearch.com"
   type: website
-  description: Polaris Pastor Search
+  description: As we have shared with you over the past several months, we are in the process of choosing the Senior Pastor for Polaris Church. The Board of Directors is following the process set forth by the church bylaws to make this decision. The Pastoral Search Committee was formed consisting of members of the church, church staff, board members, and members from the board of overseers to oversee this process. 
   image:
     url  : /assets/images/feature.jpg
     type : image/jpg
