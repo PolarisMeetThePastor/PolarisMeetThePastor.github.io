@@ -99,6 +99,7 @@ div.content h3 {
 div.content h2 {
     text-align: center;
     color: #357fa7;
+    margin-bottom: .5em;
 }
 
 div.sermons  {
