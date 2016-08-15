@@ -10,7 +10,7 @@ ordinal: 5
 
 ### SPEAK IN FRONT OF CONGREGATION
 Saturday, August 7, 2016 | 10:30 AM  
-Pete will be speaking at the main service. We'd love to you to stay after service to meet him and his family. Feedback forms are available [ here-->link ]({{ site.baseurl }}/#feedback) or at guest services
+Pete will be speaking at the main service. We'd love to you to stay after service to meet him and his family. 
 
 
 ### PASTORAL STAFF & BOARD VOTE
