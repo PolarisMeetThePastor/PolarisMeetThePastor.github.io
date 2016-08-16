@@ -16,6 +16,6 @@ Pete will be speaking at the main service. We'd love to you to stay after servic
 ### PASTORAL STAFF & BOARD VOTE
 After collecting feedback from the congregation as well as a lot of prayer, the Pastoral Staff and the Board voted on August 14th. The vote was unanimous to welcome Pete as our Senior Pastor. 
 
-### WELCOMING PETE & HIS family
+### WELCOMING PETE & HIS FAMILY
 Sunday, September 11th, 2016 | 10:30 AM
 We welcome Pete as he brings his first message as the Senior Pastor at Polaris Church.
