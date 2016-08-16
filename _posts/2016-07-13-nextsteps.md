@@ -9,9 +9,13 @@ ordinal: 5
 ## Next Steps
 
 ### SPEAK IN FRONT OF CONGREGATION
-Saturday, August 7, 2016 | 10:30 AM  
+Sunday, August 7, 2016 | 10:30 AM  
 Pete will be speaking at the main service. We'd love to you to stay after service to meet him and his family. 
 
 
 ### PASTORAL STAFF & BOARD VOTE
-After collecting feedback from the congregation as well as a lot of prayer, the team will vote. A two-thirds vote is required by all in attendance to bring Pete on board as the senior pastor.
+After collecting feedback from the congregation as well as a lot of prayer, the Pastoral Staff and the Board voted on August 14th. The vote was unanimous to welcome Pete as our Senior Pastor. 
+
+### WELCOMING PETE & HIS family
+Sunday, September 11th, 2016 | 10:30 AM
+We welcome Pete as he brings his first message as the Senior Pastor at Polaris Church.
